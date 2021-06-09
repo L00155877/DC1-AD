@@ -58,3 +58,4 @@ administrator:x:1000:
 rdma:x:117:
 sambashare:x:118:
 winbindd_priv:x:119:
+dhcpd:x:120:

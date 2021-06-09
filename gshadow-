@@ -57,3 +57,4 @@ systemd-coredump:!!::
 administrator:!::
 rdma:!::
 sambashare:!::
+winbindd_priv:!::

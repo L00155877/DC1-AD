@@ -30,3 +30,5 @@ pollinate:*:18659:0:99999:7:::
 sshd:*:18787:0:99999:7:::
 systemd-coredump:!!:18787::::::
 administrator:$6$mGmqdys3JMNgkGJ6$xTS6iQ0YwQW/PT69gjeaojrZTroIp/jJcYpfoMD5HL8EhSykMOOI7W3gd/kDebkP8.L4Xk0tkpRHnQ1tjS5hf0:18787:0:99999:7:::
+lxd:!:18787::::::
+dhcpd:*:18787:0:99999:7:::
