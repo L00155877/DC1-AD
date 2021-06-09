@@ -55,3 +55,6 @@ landscape:x:115:
 lxd:x:116:administrator
 systemd-coredump:x:999:
 administrator:x:1000:
+rdma:x:117:
+sambashare:x:118:
+winbindd_priv:x:119:
