@@ -1,0 +1,11 @@
+# Configure static ip address ending 172.18.68.2 with DefaultGateway 172.18.68.01
+
+network:
+  ethernets:
+    eth0:
+      dhcp4: no
+      addresses: [172.18.68.2/24]
+      gateway4: 172.18.68.1
+      nameservers:
+        addresses: [8.8.8.8,8.8.4.4]
+  version: 2
