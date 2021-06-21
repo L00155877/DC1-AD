@@ -7,5 +7,5 @@ network:
       addresses: [172.18.68.2/24]
       gateway4: 172.18.68.1
       nameservers:
-        addresses: [8.8.8.8,8.8.4.4]
+        addresses: [172.18.68.2,8.8.4.4]
   version: 2
