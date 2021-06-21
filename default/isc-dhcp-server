@@ -17,6 +17,6 @@
 #	Separate multiple interfaces with spaces, e.g. "eth0 eth1".
 
 
-INTERFACESv4=""
+INTERFACESv4="eth0"
 
 #INTERFACESv6=""
